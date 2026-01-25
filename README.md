@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frameworks for automation testing**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java and Python**
 
 - 📫 How to reach me **rawalpradyum10@gmail.com**
 
